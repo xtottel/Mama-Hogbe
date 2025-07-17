@@ -4,14 +4,14 @@ import { motion } from "framer-motion";
 
 export default function Sponsorship() {
   const sponsors = [ 
-    { logo: "/sponsors/anlo.png", name: "Anlo Traditional Concil" },
+   
     { logo: "/sponsors/xtopay.png", name: "Xtopay LLC" },
-    { logo: "/sponsors/exaweb.png", name: "Sendexa LLC" },
+    { logo: "/sponsors/7Networks.jpg", name: "Channel 7 Networks" },
     { logo: "/sponsors/xcitetv.png", name: "Xcite TV" },
     { logo: "/sponsors/ketavibes.png", name: "Keta Vibes" },
-    { logo: "/sponsors/hogbe25.png", name: "Volta Culture Initiative" },
-    { logo: "/sponsors/hogbe25.png", name: "Volta Arts and Crafts" },
-    { logo: "/sponsors/hogbe25.png", name: "Volta Media Group" },
+    { logo: "/sponsors/ants.jpg", name: "ANTS Concerpt" },
+    { logo: "/sponsors/arakan.jpg", name: "Arakan" },
+    { logo: "/sponsors/twin.jpg", name: "Clickers" },
     { logo: "/sponsors/hogbe25.png", name: "Volta Education Trust" },
     { logo: "/sponsors/hogbe25.png", name: "Volta Health Services" },
     { logo: "/sponsors/hogbe25.png", name: "Volta Agriculture Network" },

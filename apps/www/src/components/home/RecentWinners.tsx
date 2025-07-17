@@ -4,37 +4,38 @@ import { Container } from "@/layout/Container";
 
 export default function RecentWinners() {
   const winners = [
-    {
-      id: 1,
-      name: "Andrea Sandra Delali Gakpe",
-      title: "Winner",
-      age: 22,
-      region: "Anloga-Deti",
-      image: "/winners/24/winner.jpg",
-      bio: "Education advocate and community development leader.",
-      hoverColor: "hover:border-amber-500",
-    },
-    {
-      id: 2,
-      name: "Sedem Rita Amematror",
-      title: "1st Runner-Up",
-      age: 21,
-      region: "Horvi-Blekusu",
-      image: "/winners/24/1st.jpg",
-      bio: "Fashion entrepreneur passionate about cultural preservation.",
-      hoverColor: "hover:border-indigo-500",
-    },
-    {
-      id: 3,
-      name: "Stella Sewonumafe Sodzi",
-      title: "2nd Runner-Up",
-      age: 23,
-      region: "Kome-Atito",
-      image: "/winners/24/2nd.jpg",
-      bio: "Health volunteer focused on women’s well-being in rural areas.",
-      hoverColor: "hover:border-rose-500",
-    },
-  ];
+  {
+    id: 1,
+    name: "Andrea Sandra Delali Gakpe",
+    title: "Winner",
+    age: 23,
+    region: "Anloga-Deti",
+    image: "/winners/24/winner.jpg",
+    bio: "A dedicated teacher and passionate poet inspiring change through education and creativity.",
+    hoverColor: "hover:border-amber-500",
+  },
+  {
+    id: 2,
+    name: "Sedem Rita Amematror",
+    title: "1st Runner-Up",
+    age: 22,
+    region: "Horvi-Blekusu",
+    image: "/winners/24/1st.jpg",
+    bio: "A fashion designer committed to blending tradition with modern style to celebrate Ewe heritage.",
+    hoverColor: "hover:border-indigo-500",
+  },
+  {
+    id: 3,
+    name: "Stella Sewonumafe Sodzi",
+    title: "2nd Runner-Up",
+    age: 25,
+    region: "Kome-Atito",
+    image: "/winners/24/2nd.jpg",
+    bio: "A skilled caterer using food to preserve cultural identity and empower local women.",
+    hoverColor: "hover:border-rose-500",
+  },
+];
+
 
   return (
     <section className="py-13 bg-gradient-to-b from-white to-gray-50">
@@ -73,7 +74,8 @@ export default function RecentWinners() {
                   {winner.name}
                 </h3>
                 <p className="text-amber-200 mb-2">
-                  {winner.age} • {winner.region}
+                  {/* {winner.age}  */}
+                  • {winner.region}
                 </p>
                 <p className="text-gray-200 text-sm">{winner.bio}</p>
               </div>

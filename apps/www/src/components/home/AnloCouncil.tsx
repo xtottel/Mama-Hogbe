@@ -19,9 +19,9 @@ export default function AnloCouncil() {
       hoverColor: "hover:border-blue-500",
     },
     {
-      name: "Mamaga Abui Buiekpor II",
-      title: "Queen of Anlo Kingdom",
-      image: "/chiefs/mama.jpeg",
+      name: "Mama Wotorbe II",
+      title: "President of Anlo Queens Council",
+      image: "/chiefs/mama.jpg",
       bio: "A symbol of nurturing leadership and women’s empowerment, inspiring unity and development across the region.",
       hoverColor: "hover:border-pink-500",
     },
