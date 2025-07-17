@@ -6,11 +6,13 @@ import Sponsorship from "./Sponsorship";
 import Testimonials from "./Testimonials";
 import CallToAction from "./CallToAction";
 import RecentWinners from "./RecentWinners";
+import AnloCouncil from "./AnloCouncil";
 
 export default function Homepage() {
   return (
     <div className="bg-white">
       <HeroSlider />
+      <AnloCouncil />
       <RecentWinners />
       <PageantHighlights />
       <EventSchedule />

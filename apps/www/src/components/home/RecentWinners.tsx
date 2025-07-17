@@ -1,36 +1,36 @@
 import Image from "next/image";
-import { Crown } from "lucide-react";
+import { Medal } from "lucide-react";
 import { Container } from "@/layout/Container";
 
 export default function RecentWinners() {
   const winners = [
     {
       id: 1,
-      name: "Esi Dogbe",
+      name: "Andrea Sandra Delali Gakpe",
       title: "Winner",
       age: 22,
-      region: "Avenor",
-      image: "/winners/24/akorfa.jpeg",
+      region: "Anloga-Deti",
+      image: "/winners/24/winner.jpg",
       bio: "Education advocate and community development leader.",
       hoverColor: "hover:border-amber-500",
     },
     {
       id: 2,
-      name: "Akosua Adomako",
+      name: "Sedem Rita Amematror",
       title: "1st Runner-Up",
       age: 21,
-      region: "Woe",
-      image: "/winners/24/akorfa.jpeg",
+      region: "Horvi-Blekusu",
+      image: "/winners/24/1st.jpg",
       bio: "Fashion entrepreneur passionate about cultural preservation.",
       hoverColor: "hover:border-indigo-500",
     },
     {
       id: 3,
-      name: "Ama Nyuieme",
+      name: "Stella Sewonumafe Sodzi",
       title: "2nd Runner-Up",
       age: 23,
-      region: "Atiavi",
-      image: "/winners/24/akorfa.jpeg",
+      region: "Kome-Atito",
+      image: "/winners/24/2nd.jpg",
       bio: "Health volunteer focused on women’s well-being in rural areas.",
       hoverColor: "hover:border-rose-500",
     },
@@ -80,7 +80,7 @@ export default function RecentWinners() {
 
               <div className="absolute top-4 right-4 flex gap-2">
                 <button className="p-2 bg-white/10 backdrop-blur-md rounded-full border border-white/20 hover:bg-white/20 transition-colors">
-                  <Crown className="h-5 w-5 text-white" />
+                  <Medal className="h-5 w-5 text-white" />
                 </button>
               </div>
             </div>

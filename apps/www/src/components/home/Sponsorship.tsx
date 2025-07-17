@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 
 export default function Sponsorship() {
   const sponsors = [ 
-    { logo: "/sponsors/anlo.png", name: "Volta Heritage Foundation" },
+    { logo: "/sponsors/anlo.png", name: "Anlo Traditional Concil" },
     { logo: "/sponsors/xtopay.png", name: "Xtopay LLC" },
     { logo: "/sponsors/exaweb.png", name: "Sendexa LLC" },
     { logo: "/sponsors/xcitetv.png", name: "Xcite TV" },
