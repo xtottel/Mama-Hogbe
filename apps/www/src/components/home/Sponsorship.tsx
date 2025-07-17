@@ -44,7 +44,7 @@ export default function Sponsorship() {
 
     useEffect(() => {
       const containerWidth = containerRef.current?.scrollWidth || 0;
-      const duration = items.length * 2; // Adjust speed here
+      const duration = items.length * 3; // Adjust speed here
 
       controls.start({
         x: [-containerWidth / 2, 0],

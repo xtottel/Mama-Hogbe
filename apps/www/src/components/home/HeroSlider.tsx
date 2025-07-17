@@ -34,7 +34,7 @@ const HeroSlider = () => {
       stats: [
         {
           icon: <Crown className="h-5 w-5" />,
-          text: "Grand Prize: $10,000 + Educational Scholarship",
+          text: "Grand Prize: Exclusive items and a cash award worth GHS 10,000",
         },
         {
           icon: <CalendarDays className="h-5 w-5" />,
