@@ -19,7 +19,7 @@ import {
   // CalendarDays,
   Camera,
   Crown,
-  GalleryVerticalEnd,
+  // GalleryVerticalEnd,
   Gem,
   HeartHandshake,
   Mic2,
@@ -176,15 +176,15 @@ export const navItems = [
           "bg-pink-50 text-pink-800 dark:bg-pink-900/20 dark:text-pink-300",
         cta: false,
       },
-      {
-        name: "Media Accreditation",
-        href: "/media-pass",
-        description: "Apply for official media or photography access.",
-        icon: <GalleryVerticalEnd className="w-5 h-5" />,
-        color:
-          "bg-orange-50 text-orange-800 dark:bg-orange-900/20 dark:text-orange-300",
-        cta: false,
-      },
+      // {
+      //   name: "Media Accreditation",
+      //   href: "/media-pass",
+      //   description: "Apply for official media or photography access.",
+      //   icon: <GalleryVerticalEnd className="w-5 h-5" />,
+      //   color:
+      //     "bg-orange-50 text-orange-800 dark:bg-orange-900/20 dark:text-orange-300",
+      //   cta: false,
+      // },
     ],
   },
 ];
