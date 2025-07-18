@@ -104,12 +104,12 @@ export default function LoginPage() {
           <p>
             Powered by{" "}
             <a
-              href="https://sendexa.co"
+              href="https://xtopay.co"
               target="_blank"
               rel="noopener noreferrer"
               className="underline"
             >
-              Sendexa LLC
+              Xtopay LLC
             </a>
           </p>
           {/* <p>&copy; {new Date().getFullYear()} www.sendexa.co</p> */}
