@@ -155,7 +155,7 @@ export default function BlogPostPage() {
                       <table className="min-w-full divide-y divide-gray-200">
                         <thead className="bg-gray-50">
                           <tr>
-                            {section.rows[0]?.map((header, i) => (
+                            {/* {section.rows[0]?.map((header, i) => (
                               <th
                                 key={i}
                                 scope="col"
@@ -163,20 +163,20 @@ export default function BlogPostPage() {
                               >
                                 {header}
                               </th>
-                            ))}
+                            ))} */}
                           </tr>
                         </thead>
                         <tbody className="bg-white divide-y divide-gray-200">
                           {section.rows.slice(1).map((row, i) => (
                             <tr key={i}>
-                              {row.map((cell, j) => (
+                              {/* {row.map((cell, j) => (
                                 <td
                                   key={j}
                                   className="px-6 py-4 whitespace-nowrap text-sm text-gray-700"
                                 >
                                   {cell}
                                 </td>
-                              ))}
+                              ))} */}
                             </tr>
                           ))}
                         </tbody>
@@ -276,49 +276,6 @@ export default function BlogPostPage() {
         </section>
       )}
 
-      {/* Newsletter CTA */}
-      <section className="py-16 px-4 sm:px-6 lg:px-8 bg-[#094a94] text-white">
-        <div className="max-w-4xl mx-auto text-center">
-          <motion.h2
-            initial={{ opacity: 0, y: 20 }}
-            whileInView={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.5 }}
-            viewport={{ once: true }}
-            className="text-3xl font-bold mb-6"
-          >
-            Get More <span className="text-[#e0c9a4]">Insights</span>
-          </motion.h2>
-
-          <motion.p
-            initial={{ opacity: 0, y: 20 }}
-            whileInView={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.5, delay: 0.2 }}
-            viewport={{ once: true }}
-            className="text-lg mb-8 max-w-2xl mx-auto"
-          >
-            Subscribe to our newsletter for exclusive content on communication
-            APIs, African tech trends, and Sendexa product updates.
-          </motion.p>
-
-          <motion.div
-            initial={{ opacity: 0, y: 20 }}
-            whileInView={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.5, delay: 0.4 }}
-            viewport={{ once: true }}
-            className="flex flex-col sm:flex-row justify-center gap-2 max-w-md mx-auto"
-          >
-            <input
-              type="email"
-              placeholder="Your email address"
-              className="px-4 py-3 w-full rounded-lg border border-white/30 bg-transparent text-white placeholder-white/70 
-              focus:outline-none focus:ring-2 focus:ring-[#e0c9a4] focus:border-[#e0c9a4] transition"
-            />
-            <button className="px-6 py-3 bg-[#e0c9a4] text-[#094a94] font-medium rounded-lg hover:bg-[#d4b98c] transition">
-              Subscribe
-            </button>
-          </motion.div>
-        </div>
-      </section>
     </div>
   );
 }

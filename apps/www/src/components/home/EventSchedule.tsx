@@ -4,28 +4,22 @@ import { Container } from "@/layout/Container";
 export default function EventSchedule() {
   const events = [
     {
-      date: "Dec 15",
-      title: "Cultural Night Extravaganza",
-      time: "6:00 PM",
-      location: "Ho Sports Stadium",
+      date: "Coming Soon",
+      title: "Traditional Area Auditions",
+      time: "Dates to be announced",
+      location: "Dzodze • Abor • Denu • Agbozume • Anloga",
     },
     {
-      date: "Dec 20",
-      title: "Community Service Day",
-      time: "9:00 AM",
-      location: "Volta Regional Library",
+      date: "Oct 5",
+      title: "Semi-Finals",
+      time: "Sunday, 5th October • 3:00 PM",
+      location: "Anloga",
     },
     {
-      date: "Dec 25",
-      title: "Grand Finale Pageant",
-      time: "7:00 PM",
-      location: "Ho Municipal Auditorium",
-    },
-    {
-      date: "Jan 1",
-      title: "New Year Celebration Gala",
-      time: "8:00 PM",
-      location: "Volta Cultural Centre",
+      date: "Oct 31",
+      title: "Grand Finale",
+      time: "Friday, 31st October • 7:00 PM",
+      location: "Keta-Vui",
     },
   ];
 
@@ -37,7 +31,7 @@ export default function EventSchedule() {
             2025 Event Schedule
           </h2>
           <p className="text-gray-600 max-w-2xl mx-auto">
-            Mark your calendars for this year&apos;s unforgettable cultural festivities.
+            From local auditions to the grand finale, here’s what’s coming up for Mama Hogbe 2025.
           </p>
         </div>
 
@@ -66,9 +60,12 @@ export default function EventSchedule() {
                 <span>{event.location}</span>
               </div>
 
-              <button className="inline-flex items-center text-sm font-medium text-amber-600 hover:text-amber-700">
+              <button
+                className="inline-flex items-center text-sm font-medium text-amber-600 hover:text-amber-700"
+                disabled
+              >
                 <Ticket className="mr-2 h-4 w-4" />
-                Get Tickets
+                Tickets Coming Soon
               </button>
             </div>
           ))}

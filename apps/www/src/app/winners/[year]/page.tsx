@@ -1,10 +1,11 @@
 'use client';
 
 import Image from "next/image";
-import { Medal, Crown, Trophy, ArrowLeft } from "lucide-react";
+import { Medal, Crown,  ArrowLeft } from "lucide-react";
 import { Container } from "@/layout/Container";
 import Link from "next/link";
 import { useParams } from "next/navigation";
+import winnersData from "@/data/Winners.json";
 
 // Types for winner and year data
 type Winner = {
@@ -28,57 +29,12 @@ type YearData = {
   [year: string]: YearInfo;
 };
 
-// Static mock data
-const yearData: YearData = {
-  "2024": {
-    winners: [
-      {
-        id: 1,
-        name: "Andrea Sandra Delali Gakpe",
-        title: "Winner",
-        age: 23,
-        region: "Anloga-Deti",
-        image: "/winners/24/winner.jpg",
-        bio: "A dedicated teacher and passionate poet inspiring change through education and creativity.",
-        hoverColor: "hover:border-amber-500",
-      },
-      {
-        id: 2,
-        name: "Sedem Rita Amematror",
-        title: "1st Runner-Up",
-        age: 22,
-        region: "Horvi-Blekusu",
-        image: "/winners/24/1st.jpg",
-        bio: "A fashion designer committed to blending tradition with modern style to celebrate Ewe heritage.",
-        hoverColor: "hover:border-indigo-500",
-      },
-      {
-    id: 3,
-    name: "Stella Sewonumafe Sodzi",
-    title: "2nd Runner-Up",
-    age: 25,
-    region: "Kome-Atito",
-    image: "/winners/24/2nd.jpg",
-    bio: "A skilled caterer using food to preserve cultural identity and empower local women.",
-    hoverColor: "hover:border-rose-500",
-  },
-    ],
-
-    
-    description: "These inspiring young women stood out in talent, tradition, and impact. Here are the top 3 titleholders of Mama Hogbe 2024.",
-    highlights: [
-      "Record-breaking audience of 5,000 attendees",
-      "Featured on Ghana National Television",
-      "Raised $25,000 for girls' education initiatives"
-    ]
-  },
-  // You can add more years here
-};
-
 export default function WinnerYearPage() {
   const params = useParams<{ year: string }>();
   const year = params.year;
 
+  // Use the imported JSON data
+  const yearData: YearData = winnersData;
   const yearInfo = yearData[year] || {
     winners: [],
     description: `Details for Mama Hogbe ${year} coming soon.`,
@@ -152,7 +108,7 @@ export default function WinnerYearPage() {
         </div>
 
         {/* Highlights */}
-        {yearInfo.highlights.length > 0 && (
+        {/* {yearInfo.highlights.length > 0 && (
           <div className="bg-white rounded-xl shadow-md p-8 max-w-4xl mx-auto">
             <h3 className="text-2xl font-bold text-gray-900 mb-6 flex items-center gap-3">
               <Trophy className="h-6 w-6 text-amber-500" />
@@ -169,7 +125,7 @@ export default function WinnerYearPage() {
               ))}
             </ul>
           </div>
-        )}
+        )} */}
       </Container>
     </section>
   );

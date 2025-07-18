@@ -99,6 +99,64 @@ const galleryData: GalleryData = {
       categories: [],
     },
   },
+  //2019. This is a placeholder for the 2019 gallery data.
+  "2019": {
+    coverImage: "/gallery/2019/winner.jpg",
+    photos: [
+      {
+        id: 1,
+        src: "/gallery/2019/winner.jpg",
+        caption: "Mama Hogbe 2019 crowned",
+        category: "Crowning",
+      },
+      {
+        id: 2,
+        src: "/gallery/2019/cultural-performance.jpg",
+        caption: "Cultural performance during the event",
+        category: "Cultural Night",
+      },
+      {
+        id: 3,
+        src: "/gallery/2019/talent-show.jpg",
+        caption: "Talent show highlights",
+        category: "Talent Show",
+      },
+    ],
+    description: "Gallery for Mama Hogbe 2019 coming soon.",
+    stats: {
+      totalPhotos: 0,
+      categories: [],
+    },
+  },
+  //2018. This is a placeholder for the 2018 gallery data.
+  "2018": {
+    coverImage: "/gallery/2018/winner.jpg",
+    photos: [
+      {
+        id: 1,
+        src: "/gallery/2018/winner.jpg",
+        caption: "Mama Hogbe 2018 crowned",
+        category: "Crowning",
+      },
+      {
+        id: 2,
+        src: "/gallery/2018/cultural-performance.jpg",
+        caption: "Cultural performance during the event",
+        category: "Cultural Night",
+      },
+      {
+        id: 3,
+        src: "/gallery/2018/talent-show.jpg",
+        caption: "Talent show highlights",
+        category: "Talent Show",
+      },
+    ],
+    description: "Gallery for Mama Hogbe 2018 coming soon.",
+    stats: {
+      totalPhotos: 0,
+      categories: [],
+    },
+  },
 };
 
 export default function GalleryYearPage() {

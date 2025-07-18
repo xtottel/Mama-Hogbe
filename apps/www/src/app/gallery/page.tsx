@@ -16,22 +16,38 @@ const galleryYears = [
     year: 2024,
     title: "2024 Highlights",
     image: "/gallery/2024/cover.jpg",
-    count: "85 Photos",
+    count: "20 Photos",
     description: "Relive the magic of Mama Hogbe 2024 through our official gallery"
   },
   {
     year: 2023,
     title: "2023 Memories",
     image: "/gallery/2023/cover.jpg",
-    count: "72 Photos",
+    count: "20 Photos",
     description: "Celebrating cultural excellence and sisterhood"
   },
   {
     year: 2022,
     title: "2022 Inaugural",
     image: "/gallery/2022/cover.jpg",
-    count: "64 Photos",
+    count: "20 Photos",
     description: "The beginning of our beautiful journey"
+  },
+  //STARTED SINCE 2011
+  {
+    year: 2019,
+    title: "2019 Edition",
+    image: "/gallery/2019/winner.jpg",
+    count: "15 Photos",
+    description: "A celebration of culture and beauty",
+  }
+  ,
+  {
+    year: 2018,
+    title: "2018 Edition",
+    image: "/gallery/2018/winner.jpg",
+    count: "15 Photos",
+    description: "A celebration of culture and beauty",
   }
 ];
 

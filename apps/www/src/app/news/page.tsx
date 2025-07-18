@@ -1,5 +1,5 @@
 "use client";
-import BlogHero from "@/components/blog/BlogHero";
+//import BlogHero from "@/components/blog/BlogHero";
 import { motion } from "framer-motion";
 import Image from "next/image";
 import Link from "next/link";
@@ -9,13 +9,16 @@ import {
   //  FiSearch
 } from "react-icons/fi";
 
+
 import blogPosts from "@/data/blog-posts.json";
+import BlogHero from "@/components/blog/BlogHero";
 
 
 export default function BlogPage() {
   return (
     <div className="bg-gray-50 text-gray-800 min-h-screen">
       {/* Blog Hero Section */}
+     
       <BlogHero />
 
       {/* Blog Content */}
@@ -110,7 +113,7 @@ export default function BlogPage() {
       </section>
 
       {/* Newsletter CTA */}
-      <section className="py-16 bg-[#094a94] text-white">
+      {/* <section className="py-16 bg-[#094a94] text-white">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <motion.h2
             initial={{ opacity: 0, y: 20 }}
@@ -151,7 +154,7 @@ export default function BlogPage() {
             </button>
           </motion.div>
         </div>
-      </section>
+      </section> */}
     </div>
   );
 }

@@ -71,7 +71,7 @@ export const ExaFooter = () => {
     },
     {
       icon: FaYoutube,
-      href: "https://youtube.com/@sendexa",
+      href: "https://youtube.com/@mamahogbebeautypageantfaceofan",
       label: "YouTube",
       className: "hover:text-red-600",
     },

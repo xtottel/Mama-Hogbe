@@ -24,39 +24,70 @@ export default function PastWinners() {
     {
       year: 2023,
       winner: "Adzo Ashimadi",
-      image: "/winners/2023-winner.jpg",
+      image: "/winners/2023/winner.jpg",
       tagline: "Cultural Exchange Pioneer"
     },
     {
       year: 2022,
       winner: "Abena Agbeti",
-      image: "/winners/2022-winner.jpg",
+      image: "/winners/2022/winner.jpg",
       tagline: "Founding Mentorship Program"
     },
-    // {
-    //   year: 2021,
-    //   winner: "Mawusi Adzroe",
-    //   image: "/winners/2021-winner.jpg",
-    //   tagline: "Traditional Arts Preservationist"
-    // },
-    // {
-    //   year: 2020,
-    //   winner: "Dzidzor Nyuieme",
-    //   image: "/winners/2020-winner.jpg",
-    //   tagline: "Tourism Development Champion"
-    // },
-    // {
-    //   year: 2019,
-    //   winner: "Akosua Dede",
-    //   image: "/winners/2019-winner.jpg",
-    //   tagline: "Youth Empowerment Leader"
-    // },
-    // {
-    //   year: 2018,
-    //   winner: "Elenam Ama",
-    //   image: "/winners/2018-winner.jpg",
-    //   tagline: "First Mama Hogbe Queen"
-    // }
+
+    {
+      year: 2019,
+      winner: "Eyram",
+      image: "/winners/2019/winner.jpg",
+      tagline: "Youth Empowerment Leader"
+    },
+    {
+      year: 2018,
+      winner: "Sedinam",
+      image: "/winners/2018/winner.jpg",
+      tagline: "First Mama Hogbe Queen"
+    },
+    {
+      year: 2017,
+      winner: "Akua Dzigbordi",
+      image: "/winners/2017/winner.jpg",
+      tagline: "Cultural Heritage Advocate"
+    },
+    {
+      year: 2016,
+      winner: "Emefa Melody",
+      image: "/winners/2016/1st.jpg",
+      tagline: "Community Development Visionary"
+    },
+    {
+      year: 2015,
+      winner: "Akosua Abena",
+      image: "/winners/2015/winner.jpg",
+      tagline: "Environmental Sustainability Champion"
+    },
+    {
+      year: 2014,
+      winner: "Adzo Akosua",
+      image: "/winners/2014/winner.jpg",
+      tagline: "Arts and Culture Ambassador"
+    },
+    {
+      year: 2013,
+      winner: "Ama Dede",
+      image: "/winners/2013/winner.jpg",
+      tagline: "Social Justice Advocate"
+    },
+    {
+      year: 2012,
+      winner: "Esi Adom",
+      image: "/winners/2012/winner.jpg",
+      tagline: "Cultural Heritage Advocate"
+    },
+    {
+      year: 2011,
+      winner: "Akua Dzigbordi",
+      image: "/winners/2011/winner.jpg",
+      tagline: "Community Development Visionary"
+    }
   ];
 
   return (
@@ -69,7 +100,7 @@ export default function PastWinners() {
             <span className="font-medium">Our Royal Legacy</span>
           </div>
           <h1 className="text-4xl font-bold text-gray-900 mb-4 md:text-5xl">
-            Past Winners (2022 - Present)
+            Past Winners (2011 - Present)
           </h1>
           <p className="text-gray-600 max-w-3xl mx-auto">
             Celebrating the remarkable women who have carried the Mama Hogbe crown with grace and leadership
@@ -126,16 +157,6 @@ export default function PastWinners() {
             </Link>
           ))}
         </div>
-
-        {/* <div className="mt-16 text-center">
-          <Link 
-            href="/history" 
-            className="inline-flex items-center px-6 py-3 bg-gray-900 hover:bg-gray-800 text-white font-medium rounded-lg transition-colors"
-          >
-            <Trophy className="mr-2 h-5 w-5" />
-            Explore Full Pageant History
-          </Link>
-        </div> */}
       </div>
       </Container>
       

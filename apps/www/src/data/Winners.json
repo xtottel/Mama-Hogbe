@@ -1,0 +1,562 @@
+{
+  "2024": {
+    "winners": [
+      {
+        "id": 1,
+        "name": "Andrea Sandra Delali Gakpe",
+        "title": "Winner",
+        "age": 23,
+        "region": "Anloga-Deti",
+        "image": "/winners/24/winner.jpg",
+        "bio": "A dedicated teacher and passionate poet inspiring change through education and creativity.",
+        "hoverColor": "hover:border-amber-500"
+      },
+      {
+        "id": 2,
+        "name": "Sedem Rita Amematror",
+        "title": "1st Runner-Up",
+        "age": 22,
+        "region": "Horvi-Blekusu",
+        "image": "/winners/24/1st.jpg",
+        "bio": "A fashion designer committed to blending tradition with modern style to celebrate Ewe heritage.",
+        "hoverColor": "hover:border-indigo-500"
+      },
+      {
+        "id": 3,
+        "name": "Stella Sewonumafe Sodzi",
+        "title": "2nd Runner-Up",
+        "age": 25,
+        "region": "Kome-Atito",
+        "image": "/winners/24/2nd.jpg",
+        "bio": "A skilled caterer using food to preserve cultural identity and empower local women.",
+        "hoverColor": "hover:border-rose-500"
+      }
+    ],
+    "description": "These inspiring young women stood out in talent, tradition, and impact. Here are the top 3 titleholders of Mama Hogbe 2024.",
+    "highlights": [
+      "Record-breaking audience of 5,000 attendees",
+      "Featured on Ghana National Television",
+      "Raised $25,000 for girls' education initiatives"
+    ]
+  },
+  "2023": {
+    "winners": [
+      {
+        "id": 1,
+        "name": "Esenam Nyador",
+        "title": "Winner",
+        "age": 24,
+        "region": "Aflao",
+        "image": "/winners/2023/winner.jpg",
+        "bio": "Environmental activist promoting sustainable fishing practices in coastal communities.",
+        "hoverColor": "hover:border-amber-500"
+      },
+      {
+        "id": 2,
+        "name": "Linda Akorfa Agbenyegah",
+        "title": "1st Runner-Up",
+        "age": 21,
+        "region": "Ho",
+        "image": "/winners/2023/1st.jpg",
+        "bio": "Computer science student developing apps to preserve the Ewe language.",
+        "hoverColor": "hover:border-indigo-500"
+      },
+      {
+        "id": 3,
+        "name": "Mabel Awo Dzidzor",
+        "title": "2nd Runner-Up",
+        "age": 22,
+        "region": "Kpando",
+        "image": "/winners/2023/2nd.jpg",
+        "bio": "Nurse practitioner specializing in maternal health in rural areas.",
+        "hoverColor": "hover:border-rose-500"
+      }
+    ],
+    "description": "The 2023 edition celebrated women breaking barriers in technology, healthcare, and environmental conservation.",
+    "highlights": [
+      "First digital voting system implemented",
+      "Partnership with Ghana Health Service",
+      "Launched 'Tech for Tradition' initiative"
+    ]
+  },
+  "2022": {
+    "winners": [
+      {
+        "id": 1,
+        "name": "Afua Adzo Bansah",
+        "title": "Winner",
+        "age": 25,
+        "region": "Abor",
+        "image": "/winners/22/winner.jpg",
+        "bio": "Agricultural entrepreneur revolutionizing cassava production with modern techniques.",
+        "hoverColor": "hover:border-amber-500"
+      },
+      {
+        "id": 2,
+        "name": "Comfort Mawusi Awuku",
+        "title": "1st Runner-Up",
+        "age": 23,
+        "region": "Denu",
+        "image": "/winners/22/1st.jpg",
+        "bio": "Master kente weaver preserving ancient patterns through apprenticeships.",
+        "hoverColor": "hover:border-indigo-500"
+      },
+      {
+        "id": 3,
+        "name": "Gloria Fafali Dotse",
+        "title": "2nd Runner-Up",
+        "age": 20,
+        "region": "Tegbi",
+        "image": "/winners/22/2nd.jpg",
+        "bio": "Youngest contestant who impressed with her knowledge of Ewe medicinal plants.",
+        "hoverColor": "hover:border-rose-500"
+      }
+    ],
+    "description": "2022 recognized women contributing to economic development through agriculture and traditional crafts.",
+    "highlights": [
+      "Special recognition from Ministry of Food and Agriculture",
+      "Record number of international attendees",
+      "Established annual weaving competition"
+    ]
+  },
+  "2021": {
+    "winners": [
+      {
+        "id": 1,
+        "name": "Deborah Elorm Adablah",
+        "title": "Winner",
+        "age": 26,
+        "region": "Anloga",
+        "image": "/winners/21/winner.jpg",
+        "bio": "Marine biologist working to protect the Volta River ecosystem.",
+        "hoverColor": "hover:border-amber-500"
+      },
+      {
+        "id": 2,
+        "name": "Patience Aku Sokpo",
+        "title": "1st Runner-Up",
+        "age": 24,
+        "region": "Adidome",
+        "image": "/winners/21/1st.jpg",
+        "bio": "Radio personality creating content to empower rural women.",
+        "hoverColor": "hover:border-indigo-500"
+      },
+      {
+        "id": 3,
+        "name": "Ruth Yawa Ashiagbor",
+        "title": "2nd Runner-Up",
+        "age": 22,
+        "region": "Akatsi",
+        "image": "/winners/21/2nd.jpg",
+        "bio": "Founder of literacy program for market women.",
+        "hoverColor": "hover:border-rose-500"
+      }
+    ],
+    "description": "The pandemic year that highlighted women making impacts in environmental protection and media.",
+    "highlights": [
+      "First hybrid virtual/in-person event",
+      "Special COVID awareness campaign",
+      "Partnered with UNDP on environmental initiative"
+    ]
+  },
+  "2020": {
+    "winners": [
+      {
+        "id": 1,
+        "name": "Blessing Adzo Dzokoto",
+        "title": "Winner",
+        "age": 27,
+        "region": "Keta",
+        "image": "/winners/20/winner.jpg",
+        "bio": "Architect designing sustainable housing using local materials.",
+        "hoverColor": "hover:border-amber-500"
+      },
+      {
+        "id": 2,
+        "name": "Esther Lardi Nyabu",
+        "title": "1st Runner-Up",
+        "age": 25,
+        "region": "Hohoe",
+        "image": "/winners/20/1st.jpg",
+        "bio": "Professional midwife reducing maternal mortality rates.",
+        "hoverColor": "hover:border-indigo-500"
+      },
+      {
+        "id": 3,
+        "name": "Joyce Akua Korkor Abla",
+        "title": "2nd Runner-Up",
+        "age": 23,
+        "region": "Kpandu",
+        "image": "/winners/20/2nd.jpg",
+        "bio": "Entrepreneur creating jobs through pineapple processing.",
+        "hoverColor": "hover:border-rose-500"
+      }
+    ],
+    "description": "Celebrating 10 years of Mama Hogbe with exceptional women in architecture, healthcare, and agribusiness.",
+    "highlights": [
+      "Decade anniversary celebration",
+      "Launched mentorship program for past winners",
+      "Featured in African Women magazine"
+    ]
+  },
+  "2019": {
+    "winners": [
+      {
+        "id": 1,
+        "name": "Eyram",
+        "title": "Winner",
+        "age": 24,
+        "region": "Ho",
+        "image": "/winners/2019/winner.jpg",
+        "bio": "Lawyer advocating for women's property rights.",
+        "hoverColor": "hover:border-amber-500"
+      },
+      {
+        "id": 2,
+        "name": "Laura Ledzi Attati ",
+        "title": "1st Runner-Up",
+        "age": 22,
+        "region": "Kpeve",
+        "image": "/winners/2019/1st.jpg",
+        "bio": "Computer engineer developing rural solar solutions.",
+        "hoverColor": "hover:border-indigo-500"
+      },
+      {
+        "id": 3,
+        "name": "Enyonam Jennifer Galley",
+        "title": "2nd Runner-Up",
+        "age": 21,
+        "region": "Abor",
+        "image": "/winners/2019/2nd.jpg",
+        "bio": "University student championing girls in STEM.",
+        "hoverColor": "hover:border-rose-500"
+      }
+    ],
+    "description": "The year that highlighted women excelling in law, technology, and education advocacy.",
+    "highlights": [
+      "First winner with legal background",
+      "STEM scholarship fund established",
+      "Partnership with Ghana Bar Association"
+    ]
+  },
+  "2018": {
+    "winners": [
+      {
+        "id": 1,
+        "name": "Sedinam",
+        "title": "Winner",
+        "age": 23,
+        "region": "Anloga",
+        "image": "/winners/2018/winner.jpg",
+        "bio": "Cultural historian documenting Ewe migration stories.",
+        "hoverColor": "hover:border-amber-500"
+      },
+      {
+        "id": 2,
+        "name": "Beatrice Yawa Doe",
+        "title": "1st Runner-Up",
+        "age": 25,
+        "region": "Dzodze",
+        "image": "/winners/2018/1st.jpg",
+        "bio": "Fashion designer blending kente with contemporary styles.",
+        "hoverColor": "hover:border-indigo-500"
+      },
+      {
+        "id": 3,
+        "name": "Comfort Nyamekor Adzraku",
+        "title": "2nd Runner-Up",
+        "age": 20,
+        "region": "Kpando",
+        "image": "/winners/2018/2nd.jpg",
+        "bio": "Young poet using spoken word to address social issues.",
+        "hoverColor": "hover:border-rose-500"
+      }
+    ],
+    "description": "2018 celebrated artistic expression and cultural preservation through fashion, poetry, and oral history.",
+    "highlights": [
+      "First live-streamed event",
+      "Cultural exchange program with Benin",
+      "Published anthology of contestant poems"
+    ]
+  },
+  "2017": {
+    "winners": [
+      {
+        "id": 1,
+        "name": "Adzo Ashia Adzraku",
+        "title": "Winner",
+        "age": 26,
+        "region": "Keta",
+        "image": "/winners/17/winner.jpg",
+        "bio": "Social worker supporting victims of domestic violence.",
+        "hoverColor": "hover:border-amber-500"
+      },
+      {
+        "id": 2,
+        "name": "Elizabeth Aku Denteh",
+        "title": "1st Runner-Up",
+        "age": 24,
+        "region": "Ho",
+        "image": "/winners/17/1st.jpg",
+        "bio": "Nutritionist combating childhood malnutrition.",
+        "hoverColor": "hover:border-indigo-500"
+      },
+      {
+        "id": 3,
+        "name": "Mirabel Akosua Agbenyega",
+        "title": "2nd Runner-Up",
+        "age": 22,
+        "region": "Hohoe",
+        "image": "/winners/17/2nd.jpg",
+        "bio": "Tourism entrepreneur promoting Volta Region attractions.",
+        "hoverColor": "hover:border-rose-500"
+      }
+    ],
+    "description": "This year's winners made significant impacts in social work, public health, and tourism development.",
+    "highlights": [
+      "First partnership with Ministry of Gender",
+      "Nutritional outreach program launched",
+      "Tourism development fund established"
+    ]
+  },
+  "2016": {
+    "winners": [
+      {
+        "id": 1,
+        "name": "Abigail Adzo Seshie",
+        "title": "Winner",
+        "age": 25,
+        "region": "Denu",
+        "image": "/winners/16/winner.jpg",
+        "bio": "Teacher revolutionizing STEM education in rural schools.",
+        "hoverColor": "hover:border-amber-500"
+      },
+      {
+        "id": 2,
+        "name": "Emefa Melody",
+        "title": "1st Runner-Up",
+        "age": 23,
+        "region": "Kpandu",
+        "image": "/winners/2016/1st.jpg",
+        "bio": "Environmental scientist addressing coastal erosion.",
+        "hoverColor": "hover:border-indigo-500"
+      },
+      {
+        "id": 3,
+        "name": "Dorcas Mawufemor Ashiagbor",
+        "title": "2nd Runner-Up",
+        "age": 21,
+        "region": "Abor",
+        "image": "/winners/16/2nd.jpg",
+        "bio": "University debate champion advocating for youth inclusion.",
+        "hoverColor": "hover:border-rose-500"
+      }
+    ],
+    "description": "2016 recognized young women making strides in education reform, environmental protection, and youth advocacy.",
+    "highlights": [
+      "First STEM-focused competition",
+      "Coastal protection initiative launched",
+      "Youth parliament partnership formed"
+    ]
+  },
+  "2015": {
+    "winners": [
+      {
+        "id": 1,
+        "name": "Akua Nyameba Adzraku",
+        "title": "Winner",
+        "age": 24,
+        "region": "Anloga",
+        "image": "/winners/15/winner.jpg",
+        "bio": "Entrepreneur creating jobs through shea butter processing.",
+        "hoverColor": "hover:border-amber-500"
+      },
+      {
+        "id": 2,
+        "name": "Esenam Ekua Amexo",
+        "title": "1st Runner-Up",
+        "age": 22,
+        "region": "Ho",
+        "image": "/winners/15/1st.jpg",
+        "bio": "Traditional birth attendant modernizing maternal care.",
+        "hoverColor": "hover:border-indigo-500"
+      },
+      {
+        "id": 3,
+        "name": "Felicia Mawuko Nyamuame",
+        "title": "2nd Runner-Up",
+        "age": 20,
+        "region": "Keta",
+        "image": "/winners/15/2nd.jpg",
+        "bio": "Student innovator in renewable energy solutions.",
+        "hoverColor": "hover:border-rose-500"
+      }
+    ],
+    "description": "The year that celebrated women driving economic empowerment, healthcare innovation, and sustainable energy.",
+    "highlights": [
+      "Shea butter cooperative established",
+      "Maternal health training initiative",
+      "First clean energy partnership"
+    ]
+  },
+  "2014": {
+    "winners": [
+      {
+        "id": 1,
+        "name": "Ama Nyuieme Adzraku",
+        "title": "Winner",
+        "age": 23,
+        "region": "Hohoe",
+        "image": "/winners/14/winner.jpg",
+        "bio": "Cultural dancer preserving ancient Ewe dance forms.",
+        "hoverColor": "hover:border-amber-500"
+      },
+      {
+        "id": 2,
+        "name": "Cecilia Aku Adzogble",
+        "title": "1st Runner-Up",
+        "age": 25,
+        "region": "Kpando",
+        "image": "/winners/14/1st.jpg",
+        "bio": "Agricultural extension officer improving crop yields.",
+        "hoverColor": "hover:border-indigo-500"
+      },
+      {
+        "id": 3,
+        "name": "Dzidzor Mansa Abla",
+        "title": "2nd Runner-Up",
+        "age": 21,
+        "region": "Dzodze",
+        "image": "/winners/14/2nd.jpg",
+        "bio": "Radio presenter creating youth-focused educational content.",
+        "hoverColor": "hover:border-rose-500"
+      }
+    ],
+    "description": "2014 highlighted the importance of cultural preservation, agricultural development, and youth media.",
+    "highlights": [
+      "Cultural dance troupe formed",
+      "Agricultural best practices handbook",
+      "Youth radio program launched"
+    ]
+  },
+  "2013": {
+    "winners": [
+      {
+        "id": 1,
+        "name": "Adzo Bridget Dzakpasu",
+        "title": "Winner",
+        "age": 26,
+        "region": "Keta",
+        "image": "/winners/13/winner.jpg",
+        "bio": "Nurse establishing community health outreach programs.",
+        "hoverColor": "hover:border-amber-500"
+      },
+      {
+        "id": 2,
+        "name": "Mawusi Afi Adzraku",
+        "title": "1st Runner-Up",
+        "age": 24,
+        "region": "Ho",
+        "image": "/winners/13/1st.jpg",
+        "bio": "Textile artist reviving traditional dyeing techniques.",
+        "hoverColor": "hover:border-indigo-500"
+      },
+      {
+        "id": 3,
+        "name": "Selase Nyamuame",
+        "title": "2nd Runner-Up",
+        "age": 22,
+        "region": "Anloga",
+        "image": "/winners/13/2nd.jpg",
+        "bio": "University student advocating for disability rights.",
+        "hoverColor": "hover:border-rose-500"
+      }
+    ],
+    "description": "This year's winners made impacts in healthcare access, traditional arts preservation, and inclusive advocacy.",
+    "highlights": [
+      "Mobile health clinic initiative",
+      "Traditional textiles exhibition",
+      "First accessibility audit conducted"
+    ]
+  },
+  "2012": {
+    "winners": [
+      {
+        "id": 1,
+        "name": "Abigail Adzo Bansah",
+        "title": "Winner",
+        "age": 25,
+        "region": "Denu",
+        "image": "/winners/12/winner.jpg",
+        "bio": "Teacher developing innovative literacy programs.",
+        "hoverColor": "hover:border-amber-500"
+      },
+      {
+        "id": 2,
+        "name": "Esi Nyuieme Adzogble",
+        "title": "1st Runner-Up",
+        "age": 23,
+        "region": "Kpandu",
+        "image": "/winners/12/1st.jpg",
+        "bio": "Environmental activist leading tree planting campaigns.",
+        "hoverColor": "hover:border-indigo-500"
+      },
+      {
+        "id": 3,
+        "name": "Mirabel Akorfa Adzraku",
+        "title": "2nd Runner-Up",
+        "age": 21,
+        "region": "Hohoe",
+        "image": "/winners/12/2nd.jpg",
+        "bio": "Young entrepreneur starting a bakery cooperative.",
+        "hoverColor": "hover:border-rose-500"
+      }
+    ],
+    "description": "The 2012 competition celebrated women driving change in education, environmentalism, and economic empowerment.",
+    "highlights": [
+      "Literacy program reached 500 children",
+      "10,000 trees planted initiative",
+      "Women's cooperative support fund"
+    ]
+  },
+  "2011": {
+    "winners": [
+      {
+        "id": 1,
+        "name": "Abra Dzagah",
+        "title": "Winner",
+        "age": 21,
+        "region": "Keta",
+        "image": "/winners/11/winner.jpg",
+        "bio": "Talented dancer promoting traditional Ewe dance forms through community workshops.",
+        "hoverColor": "hover:border-amber-500"
+      },
+      {
+        "id": 2,
+        "name": "Mawusi Adzo Ahiagba",
+        "title": "1st Runner-Up",
+        "age": 22,
+        "region": "Dzodze",
+        "image": "/winners/11/1st.jpg",
+        "bio": "Apprentice midwife dedicated to improving maternal healthcare in rural areas.",
+        "hoverColor": "hover:border-indigo-500"
+      },
+      {
+        "id": 3,
+        "name": "Esenam Nyatepe",
+        "title": "2nd Runner-Up",
+        "age": 20,
+        "region": "Ho",
+        "image": "/winners/11/2nd.jpg",
+        "bio": "Student activist campaigning against child marriage in Volta Region.",
+        "hoverColor": "hover:border-rose-500"
+      }
+    ],
+    "description": "The inaugural Mama Hogbe pageant in 2011 set the standard for celebrating Ewe women's talent, tradition, and community impact.",
+    "highlights": [
+      "First ever Mama Hogbe competition",
+      "Established the cultural preservation mission",
+      "Launched scholarship fund for contestants"
+    ]
+  }
+}

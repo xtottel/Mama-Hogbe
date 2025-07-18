@@ -24,7 +24,7 @@ export default function PageHeader({
   breadcrumbs
 }: PageHeaderProps) {
   return (
-    <div className="relative bg-primary py-16 sm:py-24 overflow-hidden">
+    <div className="relative bg-blue-900 py-13 sm:py-13 overflow-hidden">
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
         <Image

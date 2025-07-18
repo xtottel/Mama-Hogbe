@@ -1,186 +1,83 @@
 [
- {
-  "id": 2,
-  "slug": "best-sms-api-ghana-comparison-sendexa-vs-hubtel-arkesel",
-  "title": "Best SMS API in Ghana? Sendexa vs Hubtel vs Arkesel – Full 2025 Comparison",
-  "date": "July 5, 2025",
-  "category": "Product",
-  "readTime": "7 min read",
-  "image": "/blog/sms-api-comparison.jpg",
-  "excerpt": "Looking for the most reliable SMS API in Ghana? In this 2025 benchmark, we compare Sendexa to Hubtel and Arkesel across delivery speed, uptime, support, and pricing. See why Sendexa is trusted by Africa’s fastest-growing startups.",
-  "content": [
-    {
-      "type": "paragraph",
-      "text": "Choosing the right SMS gateway in Ghana or across Africa can make or break your communication strategy. In this post, we compare three major players — Sendexa, Hubtel, and Arkesel — in terms of reliability, latency, pricing, and developer experience."
-    },
-    {
-      "type": "heading",
-      "text": "Why This Matters in 2025"
-    },
-    {
-      "type": "paragraph",
-      "text": "African businesses depend on fast and dependable SMS delivery for OTPs, alerts, and customer communication. Delays or message failures can result in lost users or missed revenue. That’s why we put Sendexa to the test — alongside local competitors — using real message delivery benchmarks."
-    },
-    {
-      "type": "heading",
-      "text": "Speed Test Results: Local Infrastructure Wins"
-    },
-    {
-      "type": "paragraph",
-      "text": "We conducted a 30-day test sending 10,000 messages each through Sendexa, Hubtel, and Arkesel. The results were clear:"
-    },
-    {
-      "type": "table",
-      "rows": [
-        ["Provider", "Average Delivery Time", "Success Rate"],
-        ["Sendexa", "200-400ms", "99.97%"],
-        ["Hubtel", "500-700ms", "99.85%"],
-        ["Arkesel", "600-800ms", "99.80%"]
-      ]
-    },
-    {
-      "type": "paragraph",
-      "text": "Sendexa consistently outperformed both competitors in speed and reliability."
-    },
-    {
-      "type": "heading",
-      "text": "Latency: Why Local Matters"
-    },
-    {
-      "type": "paragraph",
-      "text": "Sendexa is directly integrated with telecom providers like MTN, AirtelTigo, and Telecel. Unlike Twilio, which routes traffic internationally, Sendexa’s localized routes cut latency dramatically."
-    },
-    {
-      "type": "bullets",
-      "items": [
-        "Sendexa: 200-400ms average delivery time in Ghana",
-        "Hubtel: 500-700ms under typical load",
-        "Twilio: 800-1200ms (due to international routing)",
-        "Zero 'grey routing' thanks to dedicated SMPP connections"
-      ]
-    },
-    {
-      "type": "heading",
-      "text": "Uptime & Reliability"
-    },
-    {
-      "type": "paragraph",
-      "text": "In a 30-day test, Sendexa maintained 99.97% uptime, beating industry averages. Our architecture is built for high throughput, redundancy, and real-time failover in key African regions."
-    },
-    {
-      "type": "heading",
-      "text": "Transparent Pricing Compared"
-    },
-    {
-      "type": "paragraph",
-      "text": "Most SMS providers in Ghana charge setup fees or enforce minimum monthly commitments. Sendexa offers flexible pay-as-you-go pricing with no hidden fees:"
-    },
-    {
-      "type": "table",
-      "rows": [
-        ["Provider", "Price/SMS (GHS)", "Minimum Spend"],
-        ["Sendexa", "0.028", "None"],
-        ["Hubtel", "0.033", "None"],
-        ["Arkesel", "0.031", "GHS 20"]
-       
-      ]
-    },
-    {
-      "type": "heading",
-      "text": "Built for African Developers"
-    },
-    {
-      "type": "paragraph",
-      "text": "Sendexa offers localized documentation, sandbox environments, and SDKs in JavaScript, Python, PHP, and more. Whether you're integrating OTPs for a fintech or bulk alerts for a school, our APIs are designed to scale fast."
-    },
-    {
-      "type": "heading",
-      "text": "Conclusion: The Best SMS API for Ghana & Beyond"
-    },
-    {
-      "type": "paragraph",
-      "text": "Whether you're a startup or an enterprise, Sendexa is the best SMS API platform built for African scale. With unmatched delivery speeds, clear pricing, and real local support, more businesses are making the switch every month."
-    },
-    {
-      "type": "cta",
-      "text": "Ready to upgrade your messaging infrastructure?",
-      "button": {
-        "text": "Start Sending with Sendexa",
-        "url": "/signup"
-      }
-    }
-  ],
-  "author": {
-    "name": "Sendexa Engineering Team",
-    "role": "CTO, Sendexa",
-    "image": "/images/engineering-team.jpg"
-  },
-  "relatedPosts": [1, 3]
-}
-,
   {
-    "id": 3,
-    "slug": "code-volta-tech-empire",
-    "title": "Why I’m Building Sendexa and Xtopay in the Volta Region (Not Accra)",
-    "date": "July 12, 2025",
-    "category": "Founder Journey",
-    "readTime": "6 min read",
-    "image": "/blog/volta-tech-hub.jpg",
-    "excerpt": "Silicon Valley has Y Combinator. Kenya has Silicon Savannah. Now, Volta is rising with Sendexa, Xtopay, and Code Volta—my blueprint for decentralized tech growth.",
+    "id": 4,
+    "slug": "mama-hogbe-2024-winner-announcement",
+    "title": "Mama Hogbe 2024 Crowns Andrea Sandra Delali Gakpe as Queen",
+    "date": "July 10, 2025",
+    "category": "Press Release",
+    "readTime": "5 min read",
+    "image": "/blog/mama-hogbe-winner-2024.jpg",
+    "excerpt": "The Anlo State has crowned Andrea Sandra Delali Gakpe as the new Mama Hogbe 2024. In a night of elegance, culture, and advocacy, the top three finalists were announced at the grand finale held in Keta.",
     "content": [
       {
         "type": "paragraph",
-        "text": "Accra dominates Ghana’s tech scene, but talent and opportunity exist nationwide. Sendexa’s HQ in Volta symbolizes a shift:"
+        "text": "In a dazzling night celebrating the richness of Ewe tradition and female empowerment, Mama Hogbe 2024 has officially crowned Andrea Sandra Delali Gakpe as the Queen. The grand finale, hosted at the Keta Municipal Auditorium on December 25, united cultural icons, dignitaries, and supporters from across the Volta Region and beyond."
+      },
+      {
+        "type": "heading",
+        "text": "The New Queen: Andrea Sandra Delali Gakpe"
+      },
+      {
+        "type": "paragraph",
+        "text": "Andrea, a 23-year-old teacher and poet from Anloga-Deti, wowed judges with her passionate advocacy for youth education and cultural literacy. Her stage performance combined traditional storytelling with spoken word, igniting applause and admiration from the crowd. As Queen, she receives the prestigious crown, ambassadorial duties, and a grand prize including exclusive items and a GHS 10,000 cash award."
+      },
+      {
+        "type": "heading",
+        "text": "Other Titleholders"
       },
       {
         "type": "bullets",
         "items": [
-          "Lower operational costs = competitive pricing for clients",
-          "Untapped talent from local universities (Ho Technical, UHAS)",
-          "Inspiring a new generation of builders outside major hubs"
+          "🥈 1st Runner-up: Sedem Rita Amematror, 22 — a creative fashion designer from Horvi-Blekusu.",
+          "🥉 2nd Runner-up: Stella Sewonumafe Sodzi, 25 — a dedicated caterer from Kome-Atito."
         ]
+      },
+      {
+        "type": "heading",
+        "text": "Celebrating Culture, Strength & Legacy"
+      },
+      {
+        "type": "paragraph",
+        "text": "Mama Hogbe is more than a beauty pageant — it's a revival of Anlo heritage, womanhood, and purpose. This year’s theme emphasized service, cultural literacy, and innovation in leadership. Through workshops, mentorships, and stage challenges, contestants demonstrated intellect, creativity, and community commitment."
+      },
+      {
+        "type": "paragraph",
+        "text": "The event also featured musical performances, poetry readings, and a symbolic torch-lighting ceremony honoring past queens. It stood as a reminder that Anlo tradition continues to evolve while rooted in deep values."
+      },
+      {
+        "type": "heading",
+        "text": "Organizers & Sponsors"
+      },
+      {
+        "type": "paragraph",
+        "text": "Mama Hogbe 2024 was made possible through the collaboration of Xtopay LLC, Channel 7 Networks, Volta Education Trust, and many more. The organizers extend gratitude to media partners such as Xcite TV, Keta Vibes, and Clickers, along with supporting bodies from Volta Health, Sports, Agriculture, and Culture networks."
+      },
+      {
+        "type": "heading",
+        "text": "Quote from the Queen"
       },
       {
         "type": "quote",
-        "text": "If you’re from a ‘small town,’ leverage it. Our humility and hunger are our advantages.",
-        "author": "Collins Joe"
-      }
-    ],
-    "author": {
-      "name": "Collins Joe",
-      "role": "Founder & CEO",
-      "image": "/images/Profile.jpg"
-    },
-    "relatedPosts": [1, 4]
-  },
-  {
-    "id": 4,
-    "slug": "otp-security-sendexa",
-    "title": "Why Banks Like Fidelity and ADB Trust Sendexa for OTP Security",
-    "date": "July 19, 2025",
-    "category": "Use Cases",
-    "readTime": "5 min read",
-    "image": "/blog/bank-otp-security.jpg",
-    "excerpt": "Ghana’s financial institutions rely on Sendexa for OTPs. Here’s how we prevent fraud where others fail.",
-    "content": [
-      {
-        "type": "paragraph",
-        "text": "OTP fraud costs African businesses millions yearly. Sendexa’s solution combines:"
+        "author": "Andrea Sandra Delali Gakpe",
+        "text": "Mama Hogbe is more than a pageant; it is a voice, a vision, and a vow. I am honored to carry the crown and represent every young girl with a dream and a story worth telling."
       },
       {
-        "type": "bullets",
-        "items": [
-          "Dynamic sender IDs (e.g., ‘FIDBANK’ instead of generic numbers)",
-          "Geolocation-based delivery blocks (combat SIM swap scams)",
-          "Real-time analytics to detect unusual spikes"
-        ]
+        "type": "heading",
+        "text": "What’s Next"
+      },
+      {
+        "type": "paragraph",
+        "text": "As Queen, Andrea will embark on a year-long tour across the Volta Region, championing education, creative arts, and civic empowerment. Her outreach program includes school visits, cultural exchanges, and mentorship sessions for young girls. Stay updated through our official channels for upcoming appearances, workshops, and interviews."
       }
     ],
     "author": {
-      "name": "Sendexa Security Team",
-      "role": "Head of Product",
-      "image": "/images/security-team.jpg"
+      "name": "Mama Hogbe Secretariat",
+      "role": "Communications Director",
+      "image": "/images/team/mh-secretariat.jpg"
     },
-    "relatedPosts": [2, 5]
+    "relatedPosts": [
+      1,
+      1
+    ]
   }
 ]
